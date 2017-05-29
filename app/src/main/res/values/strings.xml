@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AutismProject</string>
+    <string name="match_name">Match</string>
+    <string name="title_activity_match">Match</string>
 </resources>
