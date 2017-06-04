@@ -10,7 +10,6 @@
         android:id="@+id/keyImg"
         android:gravity="center"
         android:layout_width="159dp"
-        android:layout_height="146dp"
-        app:srcCompat="@drawable/fish1" />
+        android:layout_height="146dp"/>
 
 </LinearLayout>
